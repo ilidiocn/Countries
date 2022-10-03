@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="xls">XLS</string>
+    <string name="csv">CSV</string>
+    <string name="xml">XML</string>
+    <string name="export">Export</string>
+</resources>
