@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         StrictMode.setThreadPolicy(ThreadPolicy.Builder().permitNetwork().build())
 
         rvRecycler = findViewById(R.id.rvRecycler)
-        progressBar = findViewById(R.id.progressBar)
+        progressBar = findViewById(R.id.progressBar);
         urlConnection= UrlConnection(this)
         utils= Utils(this)
 
